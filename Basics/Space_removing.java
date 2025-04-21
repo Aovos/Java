@@ -6,7 +6,7 @@ public class Space_removing {
 
             String name = "   Ann a   ";
 
-            // .trim() removes all spaces bevor and after
+            // .trim() removes all spaces before and after
             System.out.println(name.trim());
 
             // removing all spaces including in between
