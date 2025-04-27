@@ -1,4 +1,4 @@
-# for_loop
+# loops
 
 ___
 
